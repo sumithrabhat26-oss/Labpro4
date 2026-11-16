@@ -1,2 +1,6 @@
 in local repo
+
 in remote repo
+
+Adding a new line
+
